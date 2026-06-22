@@ -4,11 +4,10 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://zeeshanquraishi.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/zeeshanquraishi)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://github.com/8zeeshan1)
 
 
 # 💫 About Me:
-🤖 I’m currently working on building AI agents, LLM integrations, and rapid MVPs<br>🤝 I’m looking to collaborate on AI-driven products, automation tools, and startup ideas<br>🧠 I’m looking for help with advanced LLM workflows, RAG pipelines, and scalable architectures<br>🌱 I’m currently learning agent frameworks, prompt engineering, and system design<br>💬 Ask me about AI agents, MVP building, or full-stack development<br>⚡ Fun fact: I love turning ideas into working MVPs quickly 🚀
+🎓 Computer Science Engineering student at BIET Jhansi<br> 💻 Passionate about Backend Development, Distributed Systems, Cloud Infrastructure, and Full-Stack Engineering<br> 🚀 Building scalable applications using Node.js, PostgreSQL, Redis, Kafka, Docker, Kubernetes, and AWS<br> 🌱 Currently learning System Design, AI-powered applications, Agentic Workflows, and Production-Grade Architectures<br> 🤝 Open to collaborating on backend systems, developer tools, SaaS products, and AI-driven applications<br> 🧠 Strong interest in solving real-world problems through software engineering<br> ⚡ Fun Fact: I enjoy turning ideas into working products and learning the engineering behind how large-scale systems operate.
 
 
 ## 🌐 Socials:
